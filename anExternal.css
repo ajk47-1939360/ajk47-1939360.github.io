@@ -1,0 +1,15 @@
+#rounded {
+    border-radius: 25px;
+    background: #83ecff;
+    padding: 20px; 
+    width: 100px;
+    height: 100px;
+}
+
+#floated {
+    
+    width: 400px;
+    float: bottom;
+    text-align: left;
+    background-color: #c08af3;
+}
